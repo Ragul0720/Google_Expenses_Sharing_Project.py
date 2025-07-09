@@ -17,7 +17,7 @@ A Python-based expense sharing tool inspired by Google Pay group expenses. This 
 
 ## 🛠 Tech Stack
 
-- Python 3.x  
+- Python 
 - Pandas (for tracking and storing transactions)  
 - Matplotlib (for data visualization)
 
